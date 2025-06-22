@@ -13,7 +13,7 @@
 
 ### 💡 Technical Interests & Experience
 
-<img align="right" src="https://media.giphy.com/media/3o7TKP0jzRbTKFhCBO/giphy.gif" width="300" height="200" alt="Data Science">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Data Science">
 
 - 🤖 Machine Learning & Deep Learning  
 - 🧠 Natural Language Processing  
@@ -37,10 +37,11 @@
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
+
 
 ---
 
